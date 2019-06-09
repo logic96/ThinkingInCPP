@@ -4,6 +4,7 @@
 #include<string>
 using namespace std;
 
+//使用getline获取一行字符串
 int main()
 {
 	vector<string>v;
