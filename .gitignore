@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+#Visual Studio 2019
+.vs/
 
 # Compiled Object files
 *.slo
@@ -30,3 +32,7 @@
 *.exe
 *.out
 *.app
+
+
+Debug/
+*.vcxproj*
