@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_数据类型", "04_数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_指针简介", "05_指针简介\05_指针简介.vcxproj", "{14755B27-A1B3-4B42-93F8-63298E0BF8FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_显式转换", "06_显式转换\06_显式转换.vcxproj", "{240FE583-D494-4474-85A7-5C0A3C0E453B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{14755B27-A1B3-4B42-93F8-63298E0BF8FF}.Release|x64.Build.0 = Release|x64
 		{14755B27-A1B3-4B42-93F8-63298E0BF8FF}.Release|x86.ActiveCfg = Release|Win32
 		{14755B27-A1B3-4B42-93F8-63298E0BF8FF}.Release|x86.Build.0 = Release|Win32
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Debug|x64.ActiveCfg = Debug|x64
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Debug|x64.Build.0 = Debug|x64
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Debug|x86.ActiveCfg = Debug|Win32
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Debug|x86.Build.0 = Debug|Win32
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Release|x64.ActiveCfg = Release|x64
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Release|x64.Build.0 = Release|x64
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Release|x86.ActiveCfg = Release|Win32
+		{240FE583-D494-4474-85A7-5C0A3C0E453B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
