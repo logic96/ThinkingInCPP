@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_UnionClass", "11_UnionCl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_SuperVar", "12_SuperVar\12_SuperVar.vcxproj", "{1364ED52-1C76-4E4A-9848-8DAC5EB8D854}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_重载和默认参数", "13_重载和默认参数\13_重载和默认参数.vcxproj", "{14A32C1C-29E9-4F12-96C6-3515A8520011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{1364ED52-1C76-4E4A-9848-8DAC5EB8D854}.Release|x64.Build.0 = Release|x64
 		{1364ED52-1C76-4E4A-9848-8DAC5EB8D854}.Release|x86.ActiveCfg = Release|Win32
 		{1364ED52-1C76-4E4A-9848-8DAC5EB8D854}.Release|x86.Build.0 = Release|Win32
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Debug|x64.ActiveCfg = Debug|x64
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Debug|x64.Build.0 = Debug|x64
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Debug|x86.ActiveCfg = Debug|Win32
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Debug|x86.Build.0 = Debug|Win32
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Release|x64.ActiveCfg = Release|x64
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Release|x64.Build.0 = Release|x64
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Release|x86.ActiveCfg = Release|Win32
+		{14A32C1C-29E9-4F12-96C6-3515A8520011}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
